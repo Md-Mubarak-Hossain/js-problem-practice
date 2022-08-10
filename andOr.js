@@ -19,6 +19,9 @@ function findMaxNum(num1, num2, num3) {
     }
 }
 findMaxNum(a, b, c)
+
+
+
 // // || use
 // if ("a" || "A") {
 //     console.log('first letter of alphabet;')
